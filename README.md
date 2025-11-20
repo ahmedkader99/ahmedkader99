@@ -1,5 +1,5 @@
 <div align = "center">
-# 💫 About Me:
+## 💫 About Me:
 I am a Full Stack Developer specializing in building modern web applications using ASP.NET Core for backend development and Angular for frontend development. <br>I have strong experience in designing and implementing RESTful APIs, creating responsive and dynamic user interfaces, and integrating both sides to deliver scalable and high-performance solutions.<br>Skilled in working with SQL Server, Entity Framework Core (Code First), SOLID principles, and clean architecture patterns.<br>I’m also experienced in implementing JWT authentication, handling pagination, filtering, searching, and optimizing frontend performance and state management in Angular.<br>I bring strong problem-solving skills, the ability to collaborate effectively with cross-functional teams, and a commitment to delivering high-quality work under pressure. I’m always eager to learn, improve, and adopt new technologies.
 
 
